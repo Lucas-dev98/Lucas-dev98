@@ -1,10 +1,11 @@
 ## 💻Seja Muito Bem Vindo ao Meu Perfil
 
-| [<img src="https://user-images.githubusercontent.com/100005108/167707397-27bc25bd-fda2-4044-a5d2-ccf37422040b.jpg" width=115><br><sub>Lucas Oliveira Bastos</sub>](https://github.com/Lucas-dev98)|
 
-**Sistema de Informação- UVV**
+
+
 
 - 👋 Muito Prazer, Seja Bem Vindo ao Meu GitHub: @Lucas-dev98
+- ✏️ Estudante de Sistema de Informação- UVV 
 - 👀 Estou enterresado em aplicar meus conhecimentos, a adquirir mais atraves da pratica.
 - 🌱 Atualmente estou aprendendo SQL, CSS, JAVASCRIPT, HTML
 - 💞️ Atraves de muita persistencia e vontade de aprender, além de uma grande criatividade,
