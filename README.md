@@ -13,7 +13,7 @@
 
 ## 💡 Tecnologias
 
-- ![HTML](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fhtml-5_174854&psig=AOvVaw2z5Bj3ers1GlQXFWHyWECl&ust=1718948527054000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOii8ra86YYDFQAAAAAdAAAAABAE) HTML
+- ![HTML]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fhtml-5_174854&psig=AOvVaw2z5Bj3ers1GlQXFWHyWECl&ust=1718948527054000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOii8ra86YYDFQAAAAAdAAAAABAE](https://www.flaticon.com/br/icone-gratis/html-5_5968267?term=html&page=1&position=2&origin=search&related_id=5968267)) HTML
 - ![CSS](https://pt.wikipedia.org/wiki/Ficheiro:CSS3_logo_and_wordmark.svg) CSS
 - ![JavaScript](https://www.vhv.rs/viewpic/homJoom_library-of-javascript-icon-graphic-freeuse-png-files/) JavaScript
 - ![Python](https://www.cleanpng.com/png-python-logo-clojure-javascript-9-834158/) Python
