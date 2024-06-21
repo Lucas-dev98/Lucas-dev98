@@ -22,6 +22,10 @@
 
   - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos. Além disso, assistir filmes e jogar videogame são hobbies que contribuem para minha criatividade e habilidades analíticas. \o/
 
+  - 🎓 Certificações: IT Essential da Cisco, Certificação Enterprise de servidores Dell, HPE e Lenovo, Switch Huawei.
+  
+  - 💼 Experiência de 2 anos como Técnico Especialista em Servidores Físicos, com expertise em administração e manutenção de hardware de servidores.
+
 </details>
 
 <!-- Links -->
@@ -34,14 +38,15 @@
 
 <!-- Portfólio -->
 ## Portfólio:
-- [Pokédex Interativa](https://github.com/seu_usuario/pokedex-interativa)
-- [Projeto X-DEVS](https://github.com/seu_usuario/projeto-xdevs)
-- [Projetos acadêmicos diversos](https://github.com/seu_usuario/projetos-academicos)
+- [Pokédex Interativa](https://github.com/Lucas-dev98/projeto-pokedex)
+- [Projeto X-DEVS](https://github.com/Lucas-dev98/projeto-xdevs)
+- [Projetos acadêmicos diversos](https://github.com/Lucas-dev98/projetos-academicos)
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/seu_usuario/seu_repositorio/assets/imagem.gif" alt="Imagem">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+
 
 ## 🔥 Habilidades
 <!-- Habilidades: Linguagens de Programação -->
