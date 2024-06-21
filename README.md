@@ -30,7 +30,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55027996081600)
 
 <!-- GitHubStats -->
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=gotham)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-dev98_usuario&show_icons=true&theme=gotham)
 
 <!-- Portfólio -->
 ## Portfólio:
