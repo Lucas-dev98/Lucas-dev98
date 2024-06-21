@@ -18,14 +18,14 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 23 anos, moro no Brasil e sou fluente em inglês. Possuo experiência com administração de servidores físicos, desenvolvimento full stack e sistemas de banco de dados.
+  - 💬 Tenho 26 anos, moro no Brasil e sou fluente em inglês. Possuo experiência com administração de servidores físicos, desenvolvimento full stack e sistemas de banco de dados.
 
   - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos. Além disso, assistir filmes e jogar videogame são hobbies que contribuem para minha criatividade e habilidades analíticas. \o/
 
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasoliverb98/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-bastos/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55027996081600)
 
