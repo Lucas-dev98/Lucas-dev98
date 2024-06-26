@@ -51,7 +51,7 @@
 <!-- GIF -->
 <!-- Substitua 'caminho_para_o_seu_gif' pelo link correto para o seu gif -->
 <p align="center">
-  <img align="center" src="[https://github.com/Lucas-dev98/gif/blob/main/271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7]" alt="Imagem">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
 ## 🔥 Habilidades
