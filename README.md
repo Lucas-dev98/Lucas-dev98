@@ -6,7 +6,7 @@
 </div>
 
 <!-- Apresentação -->
-## 👨‍💻 Desenvolvedor Full Stack | Especialista em Servidores Físicos
+## 👨‍💻 Desenvolvedor Full Stack | Especialista em Servidores Físicos 
 
 👋 Muito prazer, seja bem-vindo ao meu GitHub: [@Lucas-dev98](https://github.com/Lucas-dev98)
 
@@ -66,22 +66,28 @@
     <img align="center" alt="SQL" height="30" width="40" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
   </div>
   
-  <!-- Habilidades: Ferramentas e Frameworks -->
+   <!-- Habilidades: Ferramentas e Frameworks -->
   <div style="flex-basis: 32%;">
-    <h3>Ferramentas e Frameworks</h3>
+    <h3>Ferramentas</h3>
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">
     <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Astah" height="30" width="40" src="https://astah.net/wp-content/uploads/2019/07/Astah_blue.svg">
+    <img align="center" alt="Visual Paradigm" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkx97_kMAvXHRXsOehzjuDL-u7OOoodFE3A&s">
+    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img align="center" alt="Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/canva/canva-original.svg">
   </div>
   
+  <!-- Habilidades: Bibliotecas -->
   <!-- Habilidades: Bibliotecas -->
   <div style="flex-basis: 32%;">
     <h3>Bibliotecas</h3>
     <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img align="center" alt="Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/canva/canva-original.svg">
-    <img align="center" alt="Astah" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astah/astah-original.svg">
-    <img align="center" alt="Visual Paradigm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualparadigm/visualparadigm-original.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+    <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </div>
 </div>
