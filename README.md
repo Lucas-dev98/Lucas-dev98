@@ -5,18 +5,18 @@
   </ul>
 </div>
 
-<!-- Apresentação -->
-## 👨‍💻 Desenvolvedor Full Stack | Especialista em Servidores Físicos 
 
-👋 Muito prazer, seja bem-vindo ao meu GitHub: [@Lucas-dev98](https://github.com/Lucas-dev98)
+## 👨‍💻 Desenvolvedor Full Stack | 🖥️ Especialista em Servidores | 📊 Monitor de Banco de Dados | 💼 Membro da Liga Acadêmica de Finanças
 
-🌱 Comprometido com uma constante evolução como pessoa e profissional, pois acredito que o melhor é ser melhor do que eu mesmo no dia anterior.
+👋 Muito prazer, seja bem-vindo ao meu GitHub: @Lucas-dev98
 
-☕ Amante de café, amante da natureza, rapeleiro, fotógrafo e pai de pet.
+🌱 Comprometido com uma constante evolução pessoal e profissional, acredito que o melhor é ser melhor do que eu mesmo no dia anterior.
 
-🎓 Certificações: IT Essential da Cisco, Certificação Enterprise de servidores Dell, HPE e Lenovo, Switch Huawei.
+☕ Amante de café, natureza, rapel, fotografia e pai de pet.
 
-💼 Experiência de 2 anos como Técnico Especialista em Servidores Físicos, com expertise em administração e manutenção de hardware de servidores.
+🎓 **Certificações**: IT Essential da Cisco, Certificação Enterprise de servidores Dell, HPE e Lenovo, Switch Huawei.
+
+💼 **Experiência**: 2 anos como Técnico Especialista em Servidores Físicos, com expertise em administração e manutenção de hardware de servidores.
 
 ---
 
@@ -28,9 +28,9 @@
 
   - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos. Além disso, assistir filmes e jogar videogame são hobbies que contribuem para minha criatividade e habilidades analíticas. \o/
 
-  - 🎓 Certificações: IT Essential da Cisco, Certificação Enterprise de servidores Dell, HPE e Lenovo, Switch Huawei.
+  - 🎓 **Certificações**: IT Essential da Cisco, Certificação Enterprise de servidores Dell, HPE e Lenovo, Switch Huawei.
   
-  - 💼 Experiência de 2 anos como Técnico Especialista em Servidores Físicos, com expertise em administração e manutenção de hardware de servidores.
+  - 💼 **Experiência**: 2 anos como Técnico Especialista em Servidores Físicos, com expertise em administração e manutenção de hardware de servidores.
 
 </details>
 
