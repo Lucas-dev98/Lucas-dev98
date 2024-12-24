@@ -44,9 +44,11 @@
 
 <!-- Portfólio -->
 ## Portfólio:
+- [Projetos Air Quality](https://github.com/Lucas-dev98/airQuality)
+- [Projetos Filhos Do Lẽao](https://filhosdoleao.netlify.app/)
 - [Pokédex Interativa](https://github.com/Lucas-dev98/projeto-pokedex)
 - [Projeto X-DEVS](https://github.com/Lucas-dev98/projeto-xdevs)
-- [Projetos acadêmicos diversos](https://github.com/Lucas-dev98/projetos-academicos)
+
 
 <!-- GIF -->
 <!-- Substitua 'caminho_para_o_seu_gif' pelo link correto para o seu gif -->
