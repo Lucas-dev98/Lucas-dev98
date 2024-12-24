@@ -44,7 +44,7 @@
 
 <!-- Portfólio -->
 ## Portfólio:
-- [Projetos Air Quality](https://github.com/Lucas-dev98/airQuality)
+- [Projetos Air Quality](https://airquality-vqcq.onrender.com/)
 - [Projetos Filhos Do Lẽao](https://filhosdoleao.netlify.app/)
 - [Pokédex Interativa](https://github.com/Lucas-dev98/projeto-pokedex)
 - [Projeto X-DEVS](https://github.com/Lucas-dev98/projeto-xdevs)
