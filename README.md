@@ -12,7 +12,7 @@
 
 🌱 Comprometido com uma constante evolução pessoal e profissional, acredito que o melhor é ser melhor do que eu mesmo no dia anterior.
 
-☕ Amante de café, natureza, rapel, fotografia e pai de pet.
+☕ Amante de café, natureza, rapel, fotografia.
 
 🎓 **Certificações**: IT Essential da Cisco, Certificação Enterprise de servidores Dell, HPE e Lenovo, Switch Huawei.
 
