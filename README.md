@@ -6,16 +6,15 @@
 </div>
 
 
-## 👨‍💻 Desenvolvedor Full Stack | 🖥️ Especialista em Servidores | 📊 Monitor de Banco de Dados | 💼 Membro da Liga Acadêmica de Finanças
+## 👨‍💻 Desenvolvedor Full Stack | 🖥️ Servidores | 📊 Banco de Dados 
 
 👋 Muito prazer, seja bem-vindo ao meu GitHub: @Lucas-dev98
 
-🌱 Comprometido com uma constante evolução pessoal e profissional, acredito que o melhor é ser melhor do que eu mesmo no dia anterior.
+🌱 Comprometido com uma constante evolução pessoal e profissional.
 
 ☕ Amante de café, natureza, rapel, fotografia.
 
-🎓 **Certificações**: IT Essential da Cisco, Certificação Enterprise de servidores Dell, HPE e Lenovo, Switch Huawei.
-
+🎓 **Certificações**: IT Essential da Cisco, Certificação Enterprise de servidores Dell, HPE, Lenovo, Switch Huawei, Oracle Database.
 💼 **Experiência**: 2 anos como Técnico Especialista em Servidores Físicos, com expertise em administração e manutenção de hardware de servidores.
 
 ---
@@ -24,7 +23,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 26 anos, moro no Brasil e sou fluente em inglês. Possuo experiência com administração de servidores físicos, desenvolvimento full stack e sistemas de banco de dados.
+  - 💬 Tenho 27 anos, moro no Brasil e sou fluente em inglês. Possuo experiência com administração de servidores físicos, desenvolvimento full stack e sistemas de banco de dados.
 
   - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos. Além disso, assistir filmes e jogar videogame são hobbies que contribuem para minha criatividade e habilidades analíticas. \o/
 
@@ -35,9 +34,7 @@
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasoliverb98/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-bastos/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55027996081600)
 
 <!-- GitHubStats -->
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-dev98&show_icons=true&theme=gotham)
