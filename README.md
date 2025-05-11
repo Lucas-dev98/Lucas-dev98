@@ -1,92 +1,99 @@
 <!-- Título -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Seja Muito Bem-Vindo ao Meu Perfil</h1></summary>
-  </ul>
-</div>
-
-
-## 👨‍💻 Desenvolvedor Full Stack | 🖥️ Servidores | 📊 Banco de Dados 
-
-👋 Muito prazer, seja bem-vindo ao meu GitHub: @Lucas-dev98
-
-🌱 Comprometido com uma constante evolução pessoal e profissional.
-
-☕ Amante de café, natureza, rapel, fotografia.
-
-🎓 **Certificações**: IT Essential da Cisco, Certificação Enterprise de servidores Dell, HPE, Lenovo, Switch Huawei, Oracle Database.
-💼 **Experiência**: 2 anos como Técnico Especialista em Servidores Físicos, com expertise em administração e manutenção de hardware de servidores.
+<h1 align="center">👋 Seja Muito Bem-Vindo ao Meu Perfil!</h1>
 
 ---
 
-<!-- Mais sobre mim (Dropdown) -->
+## 👨‍💻 Sobre Mim
+
+Olá! Eu sou o **Lucas Oliveira Bastos**, apaixonado por tecnologia, desenvolvimento web e infraestrutura de servidores. 
+
+🎯 **Área de Atuação**: Full Stack Developer | Infraestrutura de Servidores | Banco de Dados
+
+🌱 Em constante evolução pessoal e profissional  
+☕ Apreciador de café, natureza,animais, rapel e fotografia  
+📚 Gosto de livros, mangás, HQs e videogame 🎮  
+
+---
+
+## 🎓 Certificações
+- Cisco IT Essentials
+- Dell, HPE e Lenovo Enterprise Servers
+- Switch Huawei
+- Oracle Database
+
+## 💼 Experiência
+- 2 anos como Técnico Especialista em Servidores Físicos, com foco em administração, montagem e manutenção de servidores enterprise
+- 2 Anos como Suporte Tecnico na Policia Civil do Estado do Espirito Santo.
+- Atualmente Estagiario de Sistemas de Informação e Desenvolvimento de Sistemas na Vale S.A
+---
+
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+  <summary>🔍 Mais detalhes sobre mim</summary>
 
-  - 💬 Tenho 27 anos, moro no Brasil e sou fluente em inglês. Possuo experiência com administração de servidores físicos, desenvolvimento full stack e sistemas de banco de dados.
-
-  - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos. Além disso, assistir filmes e jogar videogame são hobbies que contribuem para minha criatividade e habilidades analíticas. \o/
-
-  - 🎓 **Certificações**: IT Essential da Cisco, Certificação Enterprise de servidores Dell, HPE e Lenovo, Switch Huawei.
-  
-  - 💼 **Experiência**: 2 anos como Técnico Especialista em Servidores Físicos, com expertise em administração e manutenção de hardware de servidores.
+  - Tenho 27 anos e moro no Brasil 🇧🇷  
+  - Fluente em inglês 🇬🇧  
+  - Experiência prática em desenvolvimento full stack e administração de servidores físicos  
+  - Aprecio a interseção entre hardware e software, sempre buscando soluções completas e eficientes  
 
 </details>
 
-<!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-bastos/)
+---
 
-<!-- GitHubStats -->
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-dev98&show_icons=true&theme=gotham)
+## 🔗 Conecte-se Comigo
 
-<!-- Portfólio -->
-## Portfólio:
-- [Projetos Air Quality](https://airquality-vqcq.onrender.com/)
-- [Projetos Filhos Do Lẽao](https://filhosdoleao.netlify.app/)
-- [Pokédex Interativa](https://github.com/Lucas-dev98/projeto-pokedex)
-- [Projeto X-DEVS](https://github.com/Lucas-dev98/projeto-xdevs)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-bastos/)
+
+---
+
+## 📈 GitHub Stats
+
+![Lucas GitHub stats](https://gh-readme-stats.vercel.app/api?username=Lucas-dev98&show_icons=true&theme=gotham)
 
 
-<!-- GIF -->
-<!-- Substitua 'caminho_para_o_seu_gif' pelo link correto para o seu gif -->
-<p align="center">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+### 🛠️ Linguagens de Programação
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" />
 </p>
 
-## 🔥 Habilidades
-<!-- Habilidades: Linguagens de Programação -->
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex-basis: 32%;">
-    <h3>Linguagens de Programação</h3>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="SQL" height="30" width="40" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
-  </div>
-  
-   <!-- Habilidades: Ferramentas e Frameworks -->
-  <div style="flex-basis: 32%;">
-    <h3>Ferramentas</h3>
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">
-    <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Astah" height="30" width="40" src="https://astah.net/wp-content/uploads/2019/07/Astah_blue.svg">
-    <img align="center" alt="Visual Paradigm" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkx97_kMAvXHRXsOehzjuDL-u7OOoodFE3A&s">
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img align="center" alt="Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/canva/canva-original.svg">
-  </div>
-  
-  <!-- Habilidades: Bibliotecas -->
-  <!-- Habilidades: Bibliotecas -->
-  <div style="flex-basis: 32%;">
-    <h3>Bibliotecas</h3>
-    <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-    <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  </div>
-</div>
+### ⚙️ Ferramentas & Plataformas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="24" />
+</p>
+
+### 🚀 Bibliotecas & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" />
+</p>
+
+---
+
+## 🌍 Portfólio de Projetos
+
+- 🌿 [Air Quality](https://airquality-vqcq.onrender.com/)
+- 🦁 [Filhos do Leão](https://filhosdoleao.netlify.app/)
+- 🎮 [Pokédex Interativa](https://github.com/Lucas-dev98/projeto-pokedex)
+- 👨‍💻 [Projeto X-DEVS](https://github.com/Lucas-dev98/projeto-xdevs)
+
+---
+
+<p align="center">
+  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" width="500">
+</p>
