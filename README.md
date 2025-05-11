@@ -20,6 +20,7 @@ Olá! Eu sou o **Lucas Oliveira Bastos**, apaixonado por tecnologia, desenvolvim
 - Dell, HPE e Lenovo Enterprise Servers
 - Switch Huawei
 - Oracle Database
+- ISO : 9001 e 14001
 
 ## 💼 Experiência
 - 2 anos como Técnico Especialista em Servidores Físicos, com foco em administração, montagem e manutenção de servidores enterprise
